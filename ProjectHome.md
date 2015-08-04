@@ -1,0 +1,1 @@
+LUCAS is a research group working in increasing the autonomy of unmanned vehicles.
